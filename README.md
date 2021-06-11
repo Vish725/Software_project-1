@@ -1,2 +1,2 @@
 # Software_project
- 6 sem
+ 7 sem 
