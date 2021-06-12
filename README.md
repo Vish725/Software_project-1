@@ -1,3 +1,3 @@
 # Software_project_1
- 7 sem 
+ 6 sem 
 final sprint
